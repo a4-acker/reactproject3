@@ -4,7 +4,7 @@ import './App.css'
 import A from './pages/A';
 
 function App() {
-    const repositoryName = 'reactproject3';
+    const repositoryName = 'B';
     return (
         <Router basename={`/${repositoryName}`}>
             <nav>
