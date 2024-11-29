@@ -1,7 +1,9 @@
-import React from 'react';
-
-const A: React.FC = () => {
-    return <h1>Page A</h1>;
-};
+function A() {
+    return (
+        <div>
+            <h1>This is Page A</h1>
+        </div>
+    );
+}
 
 export default A;

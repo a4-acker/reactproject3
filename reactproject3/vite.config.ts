@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 import plugin from '@vitejs/plugin-react';
 
-const repositoryName = 'B';
+const repositoryName = 'reactproject3/v1';
 
 // https://vitejs.dev/config/
 export default defineConfig({
